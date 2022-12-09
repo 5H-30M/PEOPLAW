@@ -16,10 +16,10 @@
 
 <br>
 
-## ⚖️ 검증 기술 확인하기
-[KcBERT, Korquad를 이용한 핵심 정보 추출](/KoBERT_similarity/readme.md)
+## ⚖️ 검증 기술: 실행 방법 및 코드
+[KcBERT, Korquad를 이용한 핵심 정보 추출](/KcBERT_extraction/readme.md)(/KoBERT_similarity/readme.md)
 <br>
-[KoBERT, SBERT를 이용한 유사도 계산]()
+[KoBERT, SBERT를 이용한 유사도 계산](/KoBERT_similarity/readme.md)
 
 <br>
 
