@@ -17,7 +17,7 @@
 <br>
 
 ## ⚖️ 검증 기술 확인하기
-[KcBERT, Korquad를 이용한 핵심 정보 추출]()
+[KcBERT, Korquad를 이용한 핵심 정보 추출](/KoBERT_similarity/readme.md)
 <br>
 [KoBERT, SBERT를 이용한 유사도 계산]()
 
